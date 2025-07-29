@@ -1,0 +1,13 @@
+.about-content {
+    gap: 1rem;
+}
+
+.project-category h3 {
+    font-size: 1.9rem;
+    font-weight: normal;
+    margin-bottom: .5rem;
+}
+
+footer h3 {
+    font-size: 1.6rem;
+}
